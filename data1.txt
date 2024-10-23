@@ -1,0 +1,7 @@
+F34,Laptop,Do Dien Tu,200,900.75,7
+G76,Den Trang Tri,Do Noi That,500,150.30,10
+J90,Lo Vi Song,Do Dien Tu,335,200.99,9
+L07,Ghe Xoay,Do Noi That,35,85.50,13
+M56,Quat Dien,Do Dien Tu,60,45.20,12
+P45,Tam Tham,Do Noi That,55,25.99,13
+Q17,Noi Com Dien,Do Dien Tu,133,125.75,6

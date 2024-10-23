@@ -1,0 +1,13 @@
+R21,Ke Sach,Do Noi That,28,70.15,14
+S65,Loa Bluetooth,Do Dien Tu,32,110.99,5
+T88,Dong Ho,Do Noi That,144,200.00,19
+U34,May Say Toc,Thiet Bi,50,55.75,10
+W56,Giuong Ngu,Do Noi That,8,500.99,3
+X12,Den Ban,Do Noi That,44,45.00,12
+D56,Am Ly,Do Noi That,6,350.00,2
+E19,Ghe Sofa,Do Noi That,135,400.75,8
+F88,May Rua Chen,Thiet Bi,102,700.99,1
+G23,Be Nuoc Nong,Do Gia Dung,255,180.50,13
+H45,Ke Tivi,Do Noi That,20,250.99,10
+J67,May Hut Bui,Thiet Bi,18,95.75,5
+K29,Den Chum,Do Noi That,10,600.00,6

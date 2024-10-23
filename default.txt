@@ -1,0 +1,9 @@
+A00,Sach Giao Khoa,Sach,102,200.33,12
+A01,Sac Du Phong,Dien Tu,139,1003,26
+L78,Cay Canh Lon,Cay Canh,5,200.25,3
+D77,Lo Vi Song,Dien Tu,92,75.30,4
+C54,Quat,Dien Gia Dung,80,30.75,29
+N89,Binh Hoa,Cay Canh,122,30.50,13
+H22,Sach,Giao Duc,129,20.00,15
+V99,Cay Canh Nho,Cay Canh,188,15.45,13
+K13,Tap Vu,Cay Canh,15,10.75,20
